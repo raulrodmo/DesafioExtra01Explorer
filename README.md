@@ -1,7 +1,7 @@
 <h1 align="center"> Flutuar </h1>
 
 <p align="center">
-Repositório do 1º defafio extra da turma 09 do explorer, o objetivo era criar uma página web.<br/>
+Repositório do 1º desafio extra da turma 09 do explorer, o objetivo era criar uma página web.<br/>
 </p>
 
 <p align="center">
