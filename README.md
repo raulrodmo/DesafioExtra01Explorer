@@ -6,7 +6,7 @@ Repositório do 1º desafio extra da turma 09 do explorer, o objetivo era criar 
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Flutuar</a>
+  <a href="#project">Project</a>
 </p>
 
 <br>
