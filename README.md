@@ -13,7 +13,7 @@ Repositório do 1º desafio extra da turma 09 do explorer, o objetivo era criar 
 <br>
 
 <p align="center">
-  <img alt="Móveis customizados" src=".github/preview.jpg" width="100%">
+  <img src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
